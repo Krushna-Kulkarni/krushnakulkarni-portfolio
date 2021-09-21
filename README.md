@@ -1,1 +1,1 @@
-This is my personal portfolio website. I will be updating my projects and will share the interesting things that I will build.
+Hey! welcome to my portfolio. It's coming up tomorrow when I learn HTML and CSS with Tanay Pratap on Youtube.
