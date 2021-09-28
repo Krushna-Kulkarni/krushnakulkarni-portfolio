@@ -103,7 +103,7 @@ padding-inline-start: 0px;
 
 .hero .hero-heading{
     text-align: center;
-    padding-top:1rem;
+    padding-top:0rem;
     color: var(--dark-grey);
 }
 
@@ -117,9 +117,12 @@ padding-inline-start: 0px;
     padding: 2rem;
 }
 
-.section h1{
+/* .section h1{
     text-align:center;
 
+} */
+.section p{
+    padding-bottom: 0.5rem;
 }
 
 .ow{
