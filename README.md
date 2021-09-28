@@ -1,4 +1,4 @@
 # my portfolio
 Hey! welcome to my portfolio. 
 
-[Go to Portfolio](http://www.google.fr/ "Portfolio Link")
+[Go to Portfolio](http://krushnakulkarni.netlify.app/ "Portfolio Link")
