@@ -1,5 +1,5 @@
 # Personal Portfolio Website
-This is a personal Portfolio website. In which I have hosted my projects and blogs.
+This is a Personal Portfolio website. In which I have hosted my projects and blogs.
 <br>
 Tech stack:<br>
 - HTML
