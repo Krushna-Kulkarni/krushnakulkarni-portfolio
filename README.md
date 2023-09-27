@@ -6,7 +6,7 @@ Tech stack:<br>
 - CSS
 - javaScript
 
-<<<<<<< HEAD
+
 [Go to Portfolio](http://krushnakulkarni-v1.netlify.app/ "Portfolio Link")
 =======
 [Go to Portfolio](http://krushnakulkarni.netlify.app/ "Portfolio Link")
