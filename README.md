@@ -1,5 +1,6 @@
 # Personal Portfolio Website
 This is a Personal Portfolio website. In which I have hosted my projects and blogs.
+<br/>
 Note : This is the older version V1. Checkout the latest Portfolio [Here](http://krushnakulkarni.com "Latest Portfolio Link")
 <br>
 Tech stack:<br>
